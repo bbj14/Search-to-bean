@@ -19,7 +19,7 @@ from bs4 import BeautifulSoup
 
 #fetch
 
-MY_EMAIL_ADDR = 'kazuya1425m@gmail.com'
+MY_EMAIL_ADDR = '  '
 
 class Fetcher:
     def __init__(self, ua=''):
